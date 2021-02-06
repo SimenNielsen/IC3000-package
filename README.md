@@ -2,7 +2,7 @@
 ## Introduction
 
 ## Specification
-![Alt text](img/main_schema.png "Main Schema")
+![Main Schema](main_schema.png)
 ### Backend/API
 REST API (GET, POST, DELETE)
 Claim
