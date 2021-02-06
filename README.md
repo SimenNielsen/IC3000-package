@@ -1,8 +1,11 @@
-# IC3000-package
+# IC3000-package (Insurance claim API system)
+
 ## Introduction
+Repository to collect all source code related to the IC3000 project.
 
 ## Specification
 ![Main Schema](main_schema.png)
+
 ### Backend/API
 REST API (GET, POST, DELETE)
 Claim
